@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Principal.qml</file>
+        <file>Main.qml</file>
+        <file>AbreArquivo.qml</file>
+        <file>TransmitirComando.qml</file>
+    </qresource>
+</RCC>
